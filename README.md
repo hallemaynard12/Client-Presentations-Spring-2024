@@ -17,22 +17,34 @@ Objectives:
 Dependencies:
 
 Python 3.x
+
 NumPy
+
 pandas
+
 scikit-learn
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook 
+
 SciPY
+
 Dmba
+
 Statsmodels
 
 
 Contributors:
 
 Halle Maynard 
+
 Corey Goavec
+
 Marcus Wertz
 
 Acknowledgments:
+
 We would like to thank Dr. Edwin Badoo for providing access to the dataset and resources necessary for this project.
